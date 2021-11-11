@@ -5,5 +5,3 @@ public class Launcher {
         game.start();
     }
 }
-
-// :)
