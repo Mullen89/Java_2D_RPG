@@ -4,4 +4,8 @@ public class Launcher {
         Game game = new Game("Tile RPG", 595, 770);
         game.start();
     }
+
+    public void hello(){
+        System.out.print("Hello");
+    }
 }
