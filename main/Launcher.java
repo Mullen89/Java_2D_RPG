@@ -6,6 +6,6 @@ public class Launcher {
     }
 
     public void hello(){
-        System.out.print("Hello");
+        System.out.print("Hello World");
     }
 }
