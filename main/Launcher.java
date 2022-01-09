@@ -5,7 +5,7 @@ public class Launcher {
         game.start();
     }
 
-    public void hello(){
-        System.out.print("Hello");
+    public void add2and3(){
+        System.out.print("5");
     }
 }
